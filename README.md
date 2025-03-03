@@ -54,5 +54,6 @@ Below is an example of an multiphase oil & gas well production predicted using A
 ![Picture28](https://github.com/user-attachments/assets/d1eef3bf-fe5b-4018-832a-65972158c186)
 ![Picture27](https://github.com/user-attachments/assets/517177e2-838d-4831-a7dc-6ad50333a67d)
 
-The journal paper associated with the images above can be found in this link: 
-https://www.sciencedirect.com/science/article/abs/pii/S2949891024000587 
+- The journal paper associated with the images above can be found in the link below.
+- If you use this work, please cite this paper in your work.
+- https://www.sciencedirect.com/science/article/abs/pii/S2949891024000587
