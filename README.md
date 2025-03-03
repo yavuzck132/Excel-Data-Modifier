@@ -47,9 +47,12 @@
 - **Delete data after**: Same as above, but all the data after the clicked chart. Press esc to cancel.
 - **Save data**: Allows user to save the modified data to a new sheet, override existing sheet. "Sheet 1" can't be overriden. There should be at least one sheet stays original.
 
-Below is an example of an multiphase oil and gas well production predicted using a custom Bi-LSTM model:
+Below is an example of an multiphase oil & gas well production predicted using ANN & RNN (LSTM, GRU, Bi-LSTM, C-Bi-LSTM) models. In this case, the same model can predict oil, gas, and water simultanously.
 
 
 ![Picture29](https://github.com/user-attachments/assets/26a859a7-11d2-46c7-99fd-1be0ba346e64)
 ![Picture28](https://github.com/user-attachments/assets/d1eef3bf-fe5b-4018-832a-65972158c186)
 ![Picture27](https://github.com/user-attachments/assets/517177e2-838d-4831-a7dc-6ad50333a67d)
+
+The journal paper associated with the images above can be found in this link: 
+https://www.sciencedirect.com/science/article/abs/pii/S2949891024000587 
