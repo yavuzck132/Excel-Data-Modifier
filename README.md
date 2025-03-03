@@ -3,6 +3,7 @@
 **Summary:**
 - Allows user to select an excel file and create a chart based on observed oil and gas production profiles and modify the production data by clicking and dragging the discrete data points.
   - The user can save the new data to a different sheet within the same excel file.
+
 - **Purpose:**
 - Unfortunately, in the oil and gas industry, production data can be erronous.
 - If the errors are obvious but, not fixed during training, these can impact model performance.
